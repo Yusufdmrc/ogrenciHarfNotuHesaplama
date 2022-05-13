@@ -1,0 +1,5 @@
+Yusuf Demirci:50,60,70
+Furkan Kışla:40,80,65
+Nisa Demirci:50,90,45
+Eslem Demirci:80,70,30
+Ozan Kışla:70,85,36
